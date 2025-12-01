@@ -97,14 +97,17 @@ Abaixo estão as capturas de tela demonstrando o funcionamento do sistema.
 
 ### 1. Requisição de Cadastro (Sucesso)
 Imagem mostrando o envio do JSON via cliente (Postman).
+<img width="944" height="214" alt="Captura de tela 2025-12-01 183526" src="https://github.com/user-attachments/assets/0bca4c33-6e36-4c15-920f-867f8affeb69" />
 
 
 ### 2. Log do Servidor (Conversão XML)
 Imagem do terminal mostrando que o Middleware converteu o dado para XML antes de enviar.
+<img width="757" height="272" alt="Captura de tela 2025-12-01 183503" src="https://github.com/user-attachments/assets/f2f9eddf-6023-447a-becb-9cd32cf17f13" />
 
 
 ### 3. Requisição de Consulta (Descriptografia)
 Imagem mostrando que o cliente recebe o dado descriptografado (CPF legível).
+<img width="1121" height="133" alt="Captura de tela 2025-12-01 183824" src="https://github.com/user-attachments/assets/e23452cb-9815-4104-882d-2b090fb0e1ed" />
 
 
 
